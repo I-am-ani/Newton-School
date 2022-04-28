@@ -1,0 +1,10 @@
+Q1. .Create a box with some background color using html and css.
+->He understood the question and able to complete it.
+
+Q2. Centre the box horizontally and vertically.
+-> Able to understand the question but wasn't to write  solution within given 20 minutes. But he know the logic that how do that using flex.
+
+Q3. Create a form using html, css, javascript which contains input tags like radio, text, password, email, number, buttton with js validation.  
+-> Able to understand the problem.
+-> Able to complete html partat most extent.
+->Wasn't sure how to use js validations and how to submit the form so that js script can be called.

@@ -1,0 +1,13 @@
+1. setTimeout and setINterval difference and how to stop setINterval
+2. callback function in js  -- answered
+3. call back hell -- not answered
+3. high order function in js, name any built-on functions in JS which is high order in nature -- answered
+4. Javascript DOM, difference between innerHTML and appendChild -- answered
+5. spread opeartor with example -- answered with example
+6. sync and async call example -- answered
+7. javascript promise -- answered
+8. javascript hoisting -- answered
+9. javascript closure -- answered
+10. css selector -- answered
+11. css flex usage --answered
+12. create a product form which will take product name, product description, cost price and discount and it

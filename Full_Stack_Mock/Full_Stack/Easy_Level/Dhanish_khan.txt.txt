@@ -1,0 +1,17 @@
+- What is html. 
+- what are tags and attribute. 
+- What is DOCTYPE in Html. 
+- ID vs Class selector.
+- what are inline and block elements. 
+- What is the use of CSS Opacity? 
+- Explain the term Responsive web design. 
+- Center a div inside of other div.  
+- What are the different data types present in javascript? 
+- Explain Hoisting in javascript.
+- dif b/w var,let and const.
+- output for :- 
+	var a;
+	console.log(a);
+	a=10; 
+- Output for console.log(3=="3")
+- What is the output. var x = 3; var y = "3"; 1. console.log(x+y), 2. console.log(x-y) ?

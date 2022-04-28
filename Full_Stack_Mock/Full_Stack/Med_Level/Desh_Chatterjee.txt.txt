@@ -1,0 +1,7 @@
+HTML,CSS Design concept –//Basic knowledge & has in depth knowledge 
+• ES6 concepts –//Basic knowledge & moderate in depth knowledge
+• Javascript Scoping - //Basic knowledge & has in depth knowledge
+• Looping concept -//Basic knowledge & has in depth knowledge
+• Closure Concept -//has Basic knowledge & has in depth knowledge
+Event loop-// Basic knowledge & no in depth knowledge
+• Analytical and problem-solving skill with live coding // appeared to be knowledgeable in JS

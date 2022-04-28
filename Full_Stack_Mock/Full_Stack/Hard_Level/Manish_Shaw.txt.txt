@@ -1,0 +1,7 @@
+1.psuodo-element vs psuodo-classes.
+2.css display properties.
+3.css positions.
+4.different input fields in html.
+5.session-storage vs local-storage.
+6.flex vs grid in css.
+6. implement the following functionality using html,css and js i.e https://www.w3schools.com/w3css/tryw3css_templates_portfolio3.htm

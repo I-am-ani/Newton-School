@@ -1,0 +1,4 @@
+Implementation : Create a simple Buddy List with add & delete functionalities // partially implemented
+Currying function// couldn’t answer
+Pure function // couldn’t answer
+Map vs forEach // partially answered
